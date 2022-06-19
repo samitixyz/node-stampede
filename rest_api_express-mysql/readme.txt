@@ -1,0 +1,1 @@
+curl -i -X POST -H 'Accept: application/json' \ -H 'Content-type: application/json' http://localhost:3000/programming-languages \ --data "{\"name":"dart\", \"released_year\": 2011, \"githut_rank\": 13, \"pypl_rank\": 20, \"tiobe_rank\": 25}"
