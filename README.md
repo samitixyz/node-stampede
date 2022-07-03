@@ -1,4 +1,5 @@
 # Almighty Node
+![bacon vs node.js](https://github.com/samiti3d/baconvsnodejs/blob/main/baconvsnode.png)
 
 Name Project  | Details
 ------------- | -------------
