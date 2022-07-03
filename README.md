@@ -1,4 +1,6 @@
-# Almighty Node
+# BACON VS NODE.JS
+### LET's see who wins!
+
 ![bacon vs node.js](https://github.com/samiti3d/baconvsnodejs/blob/main/baconvsnode.png)
 
 Name Project  | Details
