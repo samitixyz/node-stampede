@@ -1,7 +1,6 @@
 # NodeJSProteinPowder
 ### LET's see who wins!
 
-![bacon vs node.js](https://github.com/samiti3d/baconvsnodejs/blob/main/baconvsnode.png)
 ![NodeJS Protein Powder](https://github.com/samiti3d/NodeJSProteinPowder/blob/main/nodejsproteinpowder.png)
 Name Project  | Details
 ------------- | -------------
