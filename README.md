@@ -1,4 +1,4 @@
-# NodeJSProteinPowder
+# Node Protein Powder
 ### LET's see who wins!
 
 ![NodeJS Protein Powder](https://github.com/samiti3d/NodeJSProteinPowder/blob/main/nodejsproteinpowder.png)
