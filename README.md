@@ -1,5 +1,5 @@
 # Node Protein Powder
-### LET's see who wins!
+### Boost your BigBrain
 
 ![NodeJS Protein Powder](https://github.com/samiti3d/NodeJSProteinPowder/blob/main/nodejsproteinpowder.png)
 Name Project  | Details
