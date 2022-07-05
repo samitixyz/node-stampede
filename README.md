@@ -1,4 +1,4 @@
-# Node Protein Powder
+# NODE WHEY
 ### Boost your BigBrain
 
 ![NodeJS Protein Powder](https://github.com/samiti3d/NodeJSProteinPowder/blob/main/nodejsproteinpowder.png)
