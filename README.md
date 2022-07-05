@@ -1,7 +1,7 @@
 # NODE WHEY
-### Boost your BigBrain
+### supplement
 
-![NodeJS Protein Powder](https://github.com/samiti3d/NodeJSProteinPowder/blob/main/nodejsproteinpowder.png)
+![NodeJS WHEY Powder](https://github.com/samiti3d/node-whey/blob/main/nodewhey2.png)
 Name Project  | Details      |Levels
 ------------- | -------------|-------------
 node_file_uploader  | Nodemon, ExpressJs and Middleware checking uploading files |💊
