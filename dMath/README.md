@@ -1,7 +1,7 @@
-## dMath 
-### reassembly images from Canvas's Script
-### author Samiti
+## ชื่อโปรแกรม dMath 
+reassembly images from Canvas's Script
+author Samiti
 
-[th]
+# ภาพรวม
 หลักการต่อภาพโดยการถอดรหัสจากสคริปแบบฝั่งตัว
 
