@@ -1,4 +1,7 @@
 ## dMath 
-#purpose
+### reassembly images from Canvas's Script
+### author Samiti
 
-reassembly images by using embeded script from Canvas.
+[th]
+หลักการต่อภาพโดยการถอดรหัสจากสคริปแบบฝั่งตัว
+
