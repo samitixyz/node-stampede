@@ -2,7 +2,7 @@
 ### Node.js Collection
 
 ![Node.js Unleashed: Decoding the Source, Mastering the Craft](https://github.com/samiti3d/The-Book-of-Node.js/blob/main/bookcover.png)
-Name Project  | Details      |Levels
+Project Names  | Details      |Levels
 ------------- | -------------|-------------
 node_file_uploader  | Nodemon, ExpressJs and Middleware checking uploading files |⚙️⚙️⚙️
 rest_api_express-mysql  | connect express to mysql by get, create, update and delete |⚙️⚙️⚙️⚙️
