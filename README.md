@@ -1,7 +1,7 @@
 # The book of Node.js
 ### Node.js Unleashed: Decoding the Source, Mastering the Craft
 
-<img src="https://github.com/samiti3d/The-Book-of-Node.js/blob/main/bookcover.png" width="50%" />
+<img src="https://github.com/samiti3d/The-Book-of-Node.js/blob/main/bookcover.png" width="30%" />
 
 Project Names  | Details      |Levels
 ------------- | -------------|-------------
