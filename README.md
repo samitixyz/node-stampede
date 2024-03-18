@@ -1,4 +1,4 @@
-# GYATT
+# INDEX
 ### DO YOU LIKE NODE?
 <p align="center" width="100%">
 </p>
